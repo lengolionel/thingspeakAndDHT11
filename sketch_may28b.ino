@@ -1,7 +1,7 @@
 #include <DHT.h>
 #include <ESP8266WiFi.h>
 
-String apiKey = "JMFIEZU0PT00FFPP";
+String apiKey = "write key";
 const char* ssid = "your wifi";
 const char* password = "password";
 const char* server = "api.thingspeak.com";
